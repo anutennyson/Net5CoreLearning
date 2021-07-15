@@ -1,0 +1,16 @@
+C:\Learning\Net Learning\NewCatalog\NewCatalog\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Learning\Net Learning\NewCatalog\NewCatalog\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Learning\Net Learning\NewCatalog\NewCatalog\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Learning\Net Learning\NewCatalog\NewCatalog\bin\Debug\netcoreapp2.1\NewCatalog.deps.json
+C:\Learning\Net Learning\NewCatalog\NewCatalog\bin\Debug\netcoreapp2.1\NewCatalog.runtimeconfig.json
+C:\Learning\Net Learning\NewCatalog\NewCatalog\bin\Debug\netcoreapp2.1\NewCatalog.runtimeconfig.dev.json
+C:\Learning\Net Learning\NewCatalog\NewCatalog\bin\Debug\netcoreapp2.1\NewCatalog.dll
+C:\Learning\Net Learning\NewCatalog\NewCatalog\bin\Debug\netcoreapp2.1\NewCatalog.pdb
+C:\Learning\Net Learning\NewCatalog\NewCatalog\obj\Debug\netcoreapp2.1\NewCatalog.csprojAssemblyReference.cache
+C:\Learning\Net Learning\NewCatalog\NewCatalog\obj\Debug\netcoreapp2.1\NewCatalog.RazorAssemblyInfo.cache
+C:\Learning\Net Learning\NewCatalog\NewCatalog\obj\Debug\netcoreapp2.1\NewCatalog.RazorAssemblyInfo.cs
+C:\Learning\Net Learning\NewCatalog\NewCatalog\obj\Debug\netcoreapp2.1\NewCatalog.AssemblyInfoInputs.cache
+C:\Learning\Net Learning\NewCatalog\NewCatalog\obj\Debug\netcoreapp2.1\NewCatalog.AssemblyInfo.cs
+C:\Learning\Net Learning\NewCatalog\NewCatalog\obj\Debug\netcoreapp2.1\NewCatalog.RazorTargetAssemblyInfo.cache
+C:\Learning\Net Learning\NewCatalog\NewCatalog\obj\Debug\netcoreapp2.1\NewCatalog.dll
+C:\Learning\Net Learning\NewCatalog\NewCatalog\obj\Debug\netcoreapp2.1\NewCatalog.pdb

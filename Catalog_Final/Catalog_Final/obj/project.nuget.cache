@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "G5hUfe+++IfBW0YD/WjdSyewu+gC/lJDhQjOE8UQXW7s4lF5IOmBGdk7yUima/cITAejAU6lK+lG6r7wqoCb+A==",
+  "success": true,
+  "projectFilePath": "C:\\Learning\\Net Learning\\Catalog_Final\\Catalog_Final\\Catalog_Final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antennyson\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\antennyson\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\antennyson\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\antennyson\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\antennyson\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\antennyson\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
