@@ -27,3 +27,47 @@ C:\Learning\Net Learning\Catalog_Final\Catalog_Final\obj\Debug\net5.0\Catalog_Fi
 C:\Learning\Net Learning\Catalog_Final\Catalog_Final\obj\Debug\net5.0\ref\Catalog_Final.dll
 C:\Learning\Net Learning\Catalog_Final\Catalog_Final\obj\Debug\net5.0\Catalog_Final.pdb
 C:\Learning\Net Learning\Catalog_Final\Catalog_Final\obj\Debug\net5.0\Catalog_Final.genruntimeconfig.cache
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\appsettings.Development.json
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\appsettings.json
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\Catalog_Final.exe
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\Catalog_Final.deps.json
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\Catalog_Final.runtimeconfig.json
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\Catalog_Final.runtimeconfig.dev.json
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\Catalog_Final.dll
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\ref\Catalog_Final.dll
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\Catalog_Final.pdb
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\obj\Debug\net5.0\Catalog_Final.csproj.AssemblyReference.cache
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\obj\Debug\net5.0\Catalog_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\obj\Debug\net5.0\Catalog_Final.AssemblyInfoInputs.cache
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\obj\Debug\net5.0\Catalog_Final.AssemblyInfo.cs
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\obj\Debug\net5.0\Catalog_Final.csproj.CoreCompileInputs.cache
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\obj\Debug\net5.0\Catalog_Final.MvcApplicationPartsAssemblyInfo.cs
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\obj\Debug\net5.0\Catalog_Final.MvcApplicationPartsAssemblyInfo.cache
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\obj\Debug\net5.0\staticwebassets\Catalog_Final.StaticWebAssets.Manifest.cache
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\obj\Debug\net5.0\staticwebassets\Catalog_Final.StaticWebAssets.xml
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\obj\Debug\net5.0\scopedcss\bundle\Catalog_Final.styles.css
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\obj\Debug\net5.0\Catalog_Final.RazorTargetAssemblyInfo.cache
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\obj\Debug\net5.0\Catalog_Final.csproj.CopyComplete
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\obj\Debug\net5.0\Catalog_Final.dll
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\obj\Debug\net5.0\ref\Catalog_Final.dll
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\obj\Debug\net5.0\Catalog_Final.pdb
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\obj\Debug\net5.0\Catalog_Final.genruntimeconfig.cache
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\DnsClient.dll
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\SharpCompress.dll
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\HealthChecks.MongoDb.dll
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Learning\NetLearning\Net5CoreLearning\Catalog_Final\Catalog_Final\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll

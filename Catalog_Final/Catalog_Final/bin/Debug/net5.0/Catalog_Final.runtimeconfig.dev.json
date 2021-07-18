@@ -1,9 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\antennyson\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\antennyson\\.nuget\\packages",
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "C:\\Users\\anute\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\anute\\.nuget\\packages"
     ]
   }
 }

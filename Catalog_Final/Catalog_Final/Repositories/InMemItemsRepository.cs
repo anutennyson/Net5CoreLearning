@@ -15,34 +15,37 @@ namespace Catalog_Final.Repositories
             new Items { Id = Guid.NewGuid(), Name = "Three", Price = 999, CreatedDate = DateTimeOffset.UtcNow }
         };
 
-        public IEnumerable<Items> GetItems()
+        public async Task<IEnumerable<Items>> GetItemsAsync()
         {
-            return items;
+            return await Task.FromResult(items);//We are creating a task and sending the result
         }
 
-        public Items GetItem(Guid id)
+        public async Task<Items> GetItemAsync(Guid id)
         {
-            return items.Where(items => items.Id == id).SingleOrDefault();
+            return await Task.FromResult(items.Where(items => items.Id == id).SingleOrDefault());
         }
 
-        public void CreateItem(Items item)
+        public async Task CreateItemAsync(Items item)
         {
             items.Add(item);
             //Here we might need a different item dto because for creation we do not need
             //all the contracts
+            await Task.CompletedTask; //Here there is nothing to return
         }
 
-        public void UpdateItem(Items item)
+        public async Task UpdateItemAsync(Items item)
         {
             //doing by this we are actually maintaining the index
             var index = items.FindIndex(exisitngItem => exisitngItem.Id == item.Id);
             items[index] = item;
+            await Task.CompletedTask; //Here there is nothing to return
         }
 
-        public void DeleteItem(Guid Id)
+        public async Task DeleteItemAsync(Guid Id)
         {
             var index = items.FindIndex(exisitngItem => exisitngItem.Id == Id);
             items.RemoveAt(index);
+            await Task.CompletedTask; //Here there is nothing to return
         }
     }
 }

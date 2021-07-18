@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Learning\\Net Learning\\Catalog_Final\\Catalog_Final\\Catalog_Final.csproj": {}
+    "C:\\Learning\\NetLearning\\Net5CoreLearning\\Catalog_Final\\Catalog_Final\\Catalog_Final.csproj": {}
   },
   "projects": {
-    "C:\\Learning\\Net Learning\\Catalog_Final\\Catalog_Final\\Catalog_Final.csproj": {
+    "C:\\Learning\\NetLearning\\Net5CoreLearning\\Catalog_Final\\Catalog_Final\\Catalog_Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Learning\\Net Learning\\Catalog_Final\\Catalog_Final\\Catalog_Final.csproj",
+        "projectUniqueName": "C:\\Learning\\NetLearning\\Net5CoreLearning\\Catalog_Final\\Catalog_Final\\Catalog_Final.csproj",
         "projectName": "Catalog_Final",
-        "projectPath": "C:\\Learning\\Net Learning\\Catalog_Final\\Catalog_Final\\Catalog_Final.csproj",
-        "packagesPath": "C:\\Users\\antennyson\\.nuget\\packages\\",
-        "outputPath": "C:\\Learning\\Net Learning\\Catalog_Final\\Catalog_Final\\obj\\",
+        "projectPath": "C:\\Learning\\NetLearning\\Net5CoreLearning\\Catalog_Final\\Catalog_Final\\Catalog_Final.csproj",
+        "packagesPath": "C:\\Users\\anute\\.nuget\\packages\\",
+        "outputPath": "C:\\Learning\\NetLearning\\Net5CoreLearning\\Catalog_Final\\Catalog_Final\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\antennyson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\anute\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,6 +40,18 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AspNetCore.HealthChecks.MongoDb": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.14, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.13.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
@@ -66,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
